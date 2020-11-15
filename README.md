@@ -14,6 +14,6 @@
 ![REsponsive_site](https://github.com/aritrochakraborty29/Tak-Tak-Toe/blob/main/blueprint.jpg)
 
 
-Don't forget to join the channel for more videos like this.
+#### Don't forget to * the REPO
 
 
